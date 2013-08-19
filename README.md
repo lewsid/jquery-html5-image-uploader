@@ -60,6 +60,11 @@ Usage
 1. Click on, or drag an image into, the dotted area to start the upload process. A preview will be visible while the image uploads.
 2. The image will be placed into the uploads folder.
 
+Browser Compatibility
+---------------------
+
+IE10+, Firefox 4+, Safari 5+, Chrome 7+
+
 Configuration Options
 ---------------------
 
