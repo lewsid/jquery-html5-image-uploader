@@ -39,7 +39,7 @@ Installation
     });
     ```
     
-6. Implement server-side post handling. Here's an example of how it is achieved in PHP:
+6. Implement server-side post handling. Here's an example of how this is achieved in PHP:
 
     ```php
     <?php
