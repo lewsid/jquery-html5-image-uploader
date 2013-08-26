@@ -5,6 +5,8 @@ A minimalistic HTML5 drag-and-drop image uploader for use with JQuery.
 
 [This is what it looks like.](https://raw.github.com/lewsid/jquery-html5-image-uploader/master/img/example.png)
 
+[View this in pages.](jquery-html5-image-uploader)
+
 Installation
 ------------
 
